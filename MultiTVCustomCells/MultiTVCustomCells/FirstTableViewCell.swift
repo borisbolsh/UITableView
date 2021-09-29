@@ -16,7 +16,6 @@ class FirstTableViewCell: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
         
         backgroundColor = .blue
     }
